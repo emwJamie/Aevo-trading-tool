@@ -5,4 +5,4 @@ loguru==0.7.2
 requests==2.31.0
 web3==6.7.0
 websockets==11.0.3
-eip712_structs==1.1.0
+git+https://github.com/emwJamie/py-eip712-structs.git#egg=eip712_structs
