@@ -18,7 +18,7 @@ from src.client.utils import approve_token
 from src.bot.trading_bot import Trader
 from config import LEVERAGE
 
-from src.bot.utils.data_exctractor import (
+from src.bot.utils.data_extractor import (
     sign_staking_withdraw,
     sign_withdraw,
     sign_staking,

@@ -15,7 +15,7 @@ from abc import (
 from eth_account.datastructures import SignedMessage
 from loguru import logger
 
-from src.bot.utils.data_exctractor import get_signatures
+from src.bot.utils.data_extractor import get_signatures
 from src.client.user import User
 
 from config import (
